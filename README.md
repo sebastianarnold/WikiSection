@@ -4,7 +4,7 @@ This dataset contains 38k full-text documents from English and German Wikipedia 
 
 The WikiSection task is to assign each sentence in the document a corresponding section class in which the sentence appears. The document text itself does not contain structure information, such as sections, subsections, paragraphs or headlines. Newline characters are included and occur between sections as well as inside sections.
 
-The documents originate from Wikipedia dumps avaliable as CC BY-SA 3.0 at [dumps.wikimedia.org/enwiki/20180101/](https://dumps.wikimedia.org/enwiki/20180101/) (English) and [dumps.wikimedia.org/dewiki/20180101/](https://dumps.wikimedia.org/dewiki/20180101/) (German). The data sets are filtered by instances of Wikidata classes [Q12136](https://www.wikidata.org/wiki/Q12136) (disease) and [Q515](https://www.wikidata.org/wiki/Q515) (city). Datasets are randomized and split into 70% training, 10% validation and 20% test documents.
+The documents originate from Wikipedia dumps avaliable as CC BY-SA 3.0 at [dumps.wikimedia.org/enwiki/20180101/](https://dumps.wikimedia.org/enwiki/) (English) and [dumps.wikimedia.org/dewiki/20180101/](https://dumps.wikimedia.org/dewiki/) (German). The data sets are filtered by instances of Wikidata classes [Q12136](https://www.wikidata.org/wiki/Q12136) (disease) and [Q515](https://www.wikidata.org/wiki/Q515) (city). Datasets are randomized and split into 70% training, 10% validation and 20% test documents.
 
 ## Data Set Overview
 
@@ -106,5 +106,5 @@ Sebastian Arnold, Rudolf Schneider, Philippe Cudré-Mauroux, Felix A. Gers and A
 
 ## License
 
-This dataset uses material from Wikipedia articles listed in the SOURCES file, which are released under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/">). You should have received a copy of the license along with this
+This dataset uses material from Wikipedia articles listed in the SOURCES file, which are released under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/). You should have received a copy of the license along with this
 work. If not, see [http://creativecommons.org/licenses/by-sa/3.0/].
