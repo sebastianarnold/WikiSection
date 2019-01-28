@@ -1,6 +1,6 @@
 # WikiSection Dataset
 
-This dataset contains 38k full-text documents from English and German Wikipedia annotated with section segments. Each segment contains two labels: the original unfolded section heading given by the Wikipedia editor (e.g. `Treatment | Surgery`), and a normalized section class label (e.g. `disease.treatment`).
+This dataset contains 38k full-text documents from English and German Wikipedia annotated with sections. Each sections contains two labels: the original unfolded section heading given by the Wikipedia editor (e.g. `Treatment | Surgery`), and a normalized section class label (e.g. `disease.treatment`).
 
 The WikiSection task is to assign each sentence in the document a corresponding section class in which the sentence appears. The document text itself does not contain structure information, such as sections, subsections, paragraphs or headlines. Newline characters are included and occur between sections as well as inside sections.
 
