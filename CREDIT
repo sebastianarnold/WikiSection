@@ -1,0 +1,7 @@
+WikiSection dataset v2.2
+
+If you use this dataset for research, please cite:
+
+Sebastian Arnold, Rudolf Schneider, Philippe Cudré-Mauroux, Felix A. Gers and Alexander Löser. "SECTOR: A Neural Model for Coherent Topic Segmentation and Classification." Transactions of the Association for Computational Linguistics (2019).
+
+This dataset uses material from Wikipedia articles listed in the SOURCES file, which are released under the Creative Commons Attribution-ShareAlike 3.0 Unported License. You should have received a copy of the license along with this work. If not, see http://creativecommons.org/licenses/by-sa/3.0/
