@@ -102,7 +102,19 @@ Alternatively, we provide the same data in a REF format that consists of one fil
 
 If you use this dataset for research, please cite:
 
-Sebastian Arnold, Rudolf Schneider, Philippe Cudré-Mauroux, Felix A. Gers and Alexander Löser. "SECTOR: A Neural Model for Coherent Topic Segmentation and Classification." Transactions of the Association for Computational Linguistics (2019).
+Sebastian Arnold, Rudolf Schneider, Philippe Cudré-Mauroux, Felix A. Gers and Alexander Löser. [SECTOR: A Neural Model for Coherent Topic Segmentation and Classification](https://transacl.org/ojs/index.php/tacl/article/view/1540/359)
+
+```
+@article{arnold2019sector,
+  author = {Arnold, Sebastian and Schneider, Rudolf and Cudré-Mauroux, Philippe and Gers, Felix A. and Löser, Alexander},
+  title = {SECTOR: A Neural Model for Coherent Topic Segmentation and Classification},
+  journal = {Transactions of the Association for Computational Linguistics},
+  volume = {7},
+  pages = {169-184},
+  year = {2019},
+  doi = {10.1162/tacl\_a\_00261}
+}
+```
 
 ## License
 
